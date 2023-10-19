@@ -51,11 +51,11 @@ header{
    
 }
 .img-person{
-    margin-left: 100px;
+   margin-left: 100px;
 }
 .my-failures-details{
     text-align: left;
-    width: 416px;
+     width: 416px;
     height: 400px;
 }
 .title{
@@ -70,6 +70,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     color: #444343;
+
 }
 .my-failures-description{
     margin-bottom: 30px;
