@@ -46,7 +46,7 @@ header{
 .my-failures{
     display: flex;
     align-items: center;
-    gap: 300px;
+    justify-content: space-between;
     margin-right: 100px;
    
 }
